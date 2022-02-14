@@ -130,7 +130,7 @@ var endGame = function(){
   }else{
   window.alert("Thank you for playing Robot Gladators! Come back soon!!");
   }
-},
+};
 
 // go to shop between battles function
 var shop = function(){  
@@ -195,7 +195,7 @@ var playerInfo = {
     window.alert("You dont have enough money!");
   }
   }
-},
+};
 // function to generate a random numeric value
 
 //enemy information
